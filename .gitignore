@@ -176,3 +176,4 @@ cython_debug/
 # Customized file types 
 *.zip
 *.csv
+*.ipynb
